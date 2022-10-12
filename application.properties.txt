@@ -1,0 +1,4 @@
+class_teacher=James Bond
+students_count=50
+class_start:09:30
+class_end:14:00

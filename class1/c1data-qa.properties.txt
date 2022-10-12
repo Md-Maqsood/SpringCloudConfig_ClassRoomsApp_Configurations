@@ -1,0 +1,2 @@
+class_teacher=Socrates
+students_count=56

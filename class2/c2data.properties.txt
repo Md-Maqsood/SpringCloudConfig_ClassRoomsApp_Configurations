@@ -1,0 +1,2 @@
+class_teacher=Aristotle
+students_count=75

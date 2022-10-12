@@ -1,0 +1,2 @@
+class_teacher=Plato
+students_count=45
